@@ -12,8 +12,8 @@
 
 ## 文件地址
 
-- TMDB IPv4 hosts：`https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv4` ，[链接](https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv4)
-- TMDB IPv6 hosts：`https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv6` ，[链接](https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv6)
+- TMDB IPv4 hosts：`https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv4` ，[链接](https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv4)
+- TMDB IPv6 hosts：`https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv6` ，[链接](https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv6)
 
 ## 二、使用方法
 
@@ -23,29 +23,29 @@
 
 ```bash
 # Tmdb Hosts Start
-3.167.192.58                tmdb.org
-108.159.227.77              api.tmdb.org
-18.245.60.108               files.tmdb.org
-3.160.150.33                themoviedb.org
-3.170.103.59                api.themoviedb.org
-3.161.213.35                www.themoviedb.org
-18.154.132.115              auth.themoviedb.org
+54.230.130.44               tmdb.org
+99.84.152.7                 api.tmdb.org
+13.224.14.89                files.tmdb.org
+108.156.83.100              themoviedb.org
+18.164.174.7                api.themoviedb.org
+18.65.159.129               www.themoviedb.org
+18.154.132.87               auth.themoviedb.org
 89.187.162.242              image.tmdb.org
-89.187.162.242              images.tmdb.org
-52.94.225.248               imdb.com
-3.168.39.73                 www.imdb.com
-52.94.228.167               secure.imdb.com
+84.17.38.230                images.tmdb.org
+52.94.228.167               imdb.com
+143.204.84.145              www.imdb.com
+52.94.237.74                secure.imdb.com
 18.164.175.229              s.media-imdb.com
-52.94.228.167               us.dd.imdb.com
-3.161.215.103               www.imdb.to
-44.215.137.99               origin-www.imdb.com
-23.205.90.203               ia.media-imdb.com
-3.162.172.98                thetvdb.com
-3.162.4.101                 api.thetvdb.com
-3.169.234.197               ia.media-imdb.com
+52.94.237.74                us.dd.imdb.com
+18.64.175.204               www.imdb.to
+98.82.155.134               origin-www.imdb.com
+18.154.126.231              ia.media-imdb.com
+99.84.156.82                thetvdb.com
+13.224.25.127               api.thetvdb.com
+18.154.126.231              ia.media-imdb.com
 151.101.89.16               f.media-amazon.com
-13.226.235.27               imdb-video.media-imdb.com
-# Update time: 2025-08-12T09:41:07+08:00
+3.168.147.2                 imdb-video.media-imdb.com
+# Update time: 2025-08-12T18:30:18+08:00
 # IPv4 Update url: https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv4
 # IPv6 Update url: https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv6
 # Star me: https://github.com/cnwikee/CheckTMDB
@@ -53,25 +53,25 @@
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2025-08-12T09:41:07+08:00
+该内容会自动定时更新， 数据更新时间：2025-08-12T18:30:18+08:00
 
 #### 2.1.2 IPv6地址复制下面的内容
 
 ```bash
 # Tmdb Hosts Start
-2600:9000:27e0:ca00:10:db24:6940:93a1              tmdb.org
-2600:9000:2801:d800:10:fb02:4000:93a1              api.tmdb.org
-2600:9000:2646:8400:5:da10:7440:93a1               files.tmdb.org
-2600:9000:27e3:e400:e:5373:440:93a1                themoviedb.org
-2600:9000:2117:9e00:c:174a:c400:93a1               api.themoviedb.org
-2600:9000:27e3:8a00:e:5373:440:93a1                www.themoviedb.org
-2600:9000:24db:5400:16:e4a1:eb00:93a1              auth.themoviedb.org
-2400:52e0:1500::1092:1                             image.tmdb.org
-2400:52e0:1500::1091:1                             images.tmdb.org
-2600:9000:2364:f000:1d:d7f6:39d4:e6e1              ia.media-imdb.com
-2600:9000:2364:6000:1d:d7f6:39d4:e6e1              ia.media-imdb.com
+2600:9000:279e:1600:10:db24:6940:93a1              tmdb.org
+2600:9000:234d:2600:10:fb02:4000:93a1              api.tmdb.org
+2600:9000:2353:8000:5:da10:7440:93a1               files.tmdb.org
+2600:9000:27e3:e000:e:5373:440:93a1                themoviedb.org
+2600:9000:24ba:3400:c:174a:c400:93a1               api.themoviedb.org
+2600:9000:263c:f800:e:5373:440:93a1                www.themoviedb.org
+2600:9000:21f2:ee00:16:e4a1:eb00:93a1              auth.themoviedb.org
+2400:52e0:1500::1024:1                             image.tmdb.org
+2400:52e0:1500::1024:1                             images.tmdb.org
+2a04:4e42:15::272                                  ia.media-imdb.com
+2a04:4e42:15::272                                  ia.media-imdb.com
 2a04:4e42:15::272                                  f.media-amazon.com
-# Update time: 2025-08-12T09:41:07+08:00
+# Update time: 2025-08-12T18:30:18+08:00
 # IPv4 Update url: https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv4
 # IPv6 Update url: https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv6
 # Star me: https://github.com/cnwikee/CheckTMDB
@@ -79,7 +79,7 @@
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2025-08-12T09:41:07+08:00
+该内容会自动定时更新， 数据更新时间：2025-08-12T18:30:18+08:00
 
 > [!NOTE]
 > 由于项目搭建在Github Aciton，延时数据获取于Github Action 虚拟主机网络环境，请自行测试可用性，建议使用本地网络环境自动设置。
@@ -125,8 +125,8 @@ GitHub 发行版：https://github.com/oldj/SwitchHosts/releases/latest
 - Hosts 类型：`远程`
 - Hosts 标题：任意
 - URL
-    - IPv4：`https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv4`
-    - IPv6：`https://raw.githubusercontent.com/cnwikee/CheckTMDB/refs/heads/main/Tmdb_host_ipv6`
+    - IPv4：`https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv4`
+    - IPv6：`https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv6`
 - 自动刷新：`1 小时`
 
 #### 2.2.3 启用 hosts
@@ -142,4 +142,4 @@ GitHub 发行版：https://github.com/oldj/SwitchHosts/releases/latest
 
 - [x] 自学薄弱编程基础，大部分代码基于AI辅助生成，此项目过程中，主要人为解决的是：通过 [dnschecker](https://dnschecker.org/) 提交时，通过计算出正确的udp参数，获取正确的csrftoken，携带正确的referer提交！
 - [x] README.md 及 部分代码 参考[GitHub520](https://github.com/521xueweihan/GitHub520)
-- [x] * 本项目仅在本机测试通过，如有问题欢迎提 [issues](https://github.com/cnwikee/CheckTMDB/issues/new)
+- [x] * 本项目仅在本机测试通过，如有问题欢迎提 [issues](https://github.com/lvemail/CheckTMDB/issues/new)
