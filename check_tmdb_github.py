@@ -33,6 +33,9 @@ DOMAINS = [
     'ia.media-imdb.com',
     'f.media-amazon.com',
     'imdb-video.media-imdb.com'
+    'cloud.maptiler.com', 
+    'api.maptiler.com', 
+    'www.maptiler.com' 
 ]
 
 Tmdb_Host_TEMPLATE = """# Tmdb Hosts Start
