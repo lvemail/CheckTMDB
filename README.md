@@ -23,30 +23,30 @@
 
 ```bash
 # Tmdb Hosts Start
-3.165.113.32                tmdb.org
-52.222.201.18               api.tmdb.org
-52.222.149.43               files.tmdb.org
-108.159.227.111             themoviedb.org
-3.169.231.119               api.themoviedb.org
-108.159.227.111             www.themoviedb.org
+99.86.38.71                 tmdb.org
+18.161.156.93               api.tmdb.org
+18.238.171.7                files.tmdb.org
+108.156.211.8               themoviedb.org
+99.84.152.8                 api.themoviedb.org
+108.159.227.37              www.themoviedb.org
 18.154.185.85               auth.themoviedb.org
-84.17.38.227                image.tmdb.org
-84.17.38.227                images.tmdb.org
-52.94.237.74                imdb.com
-52.222.159.225              www.imdb.com
-52.94.225.248               secure.imdb.com
-3.168.39.73                 s.media-imdb.com
+84.17.38.232                image.tmdb.org
+89.187.162.242              images.tmdb.org
+52.94.225.248               imdb.com
+3.170.187.133               www.imdb.com
+52.94.228.167               secure.imdb.com
+3.170.187.133               s.media-imdb.com
 52.94.237.74                us.dd.imdb.com
-13.35.99.7                  www.imdb.to
-98.82.155.134               origin-www.imdb.com
+18.245.38.81                www.imdb.to
+44.215.137.99               origin-www.imdb.com
 151.101.89.16               ia.media-imdb.com
-3.165.131.88                thetvdb.com
-18.164.130.112              api.thetvdb.com
-151.101.89.16               ia.media-imdb.com
+18.239.174.101              thetvdb.com
+18.66.115.103               api.thetvdb.com
+3.161.83.166                ia.media-imdb.com
 151.101.89.16               f.media-amazon.com
-104.17.246.40               api.maptiler.com
+104.17.244.40               api.maptiler.com
 104.17.244.40               www.maptiler.com
-# Update time: 2025-08-30T06:23:38+08:00
+# Update time: 2025-08-30T18:24:24+08:00
 # IPv4 Update url: https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv4
 # IPv6 Update url: https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv6
 # Star me: https://github.com/lvemail/CheckTMDB
@@ -54,27 +54,27 @@
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2025-08-30T06:23:38+08:00
+该内容会自动定时更新， 数据更新时间：2025-08-30T18:24:24+08:00
 
 #### 2.1.2 IPv6地址复制下面的内容
 
 ```bash
 # Tmdb Hosts Start
-2600:9000:23ca:3000:10:db24:6940:93a1              tmdb.org
-2600:9000:2801:b600:10:fb02:4000:93a1              api.tmdb.org
-2600:9000:218e:8600:5:da10:7440:93a1               files.tmdb.org
-2600:9000:2801:3200:e:5373:440:93a1                themoviedb.org
-2600:9000:2117:fc00:c:174a:c400:93a1               api.themoviedb.org
-2600:9000:2801:a600:e:5373:440:93a1                www.themoviedb.org
-2600:9000:2507:5800:16:e4a1:eb00:93a1              auth.themoviedb.org
-2400:52e0:1500::1093:1                             image.tmdb.org
-2400:52e0:1500::1182:1                             images.tmdb.org
-2a04:4e42:15::272                                  ia.media-imdb.com
-2a04:4e42:15::272                                  ia.media-imdb.com
+2600:9000:2466:d000:10:db24:6940:93a1              tmdb.org
+2600:9000:233d:1000:10:fb02:4000:93a1              api.tmdb.org
+2600:9000:2196:5600:5:da10:7440:93a1               files.tmdb.org
+2600:9000:2337:d600:e:5373:440:93a1                themoviedb.org
+2600:9000:287c:4a00:c:174a:c400:93a1               api.themoviedb.org
+2600:9000:263c:8c00:e:5373:440:93a1                www.themoviedb.org
+2600:9000:2507:e400:16:e4a1:eb00:93a1              auth.themoviedb.org
+2400:52e0:1500::1094:1                             image.tmdb.org
+2400:52e0:1500::1096:1                             images.tmdb.org
+2600:9000:2784:d800:1d:d7f6:39d5:bd01              ia.media-imdb.com
+2600:9000:2784:ac00:1d:d7f6:39d5:bd01              ia.media-imdb.com
 2a04:4e42:15::272                                  f.media-amazon.com
-2606:4700::6811:f528                               api.maptiler.com
-2606:4700::6811:f528                               www.maptiler.com
-# Update time: 2025-08-30T06:23:38+08:00
+2606:4700::6811:f428                               api.maptiler.com
+2606:4700::6811:f328                               www.maptiler.com
+# Update time: 2025-08-30T18:24:24+08:00
 # IPv4 Update url: https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv4
 # IPv6 Update url: https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv6
 # Star me: https://github.com/lvemail/CheckTMDB
@@ -82,7 +82,7 @@
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2025-08-30T06:23:38+08:00
+该内容会自动定时更新， 数据更新时间：2025-08-30T18:24:24+08:00
 
 > [!NOTE]
 > 由于项目搭建在Github Aciton，延时数据获取于Github Action 虚拟主机网络环境，请自行测试可用性，建议使用本地网络环境自动设置。
