@@ -1,28 +1,28 @@
 # Tmdb Hosts Start
-18.238.132.46               tmdb.org
-108.156.60.38               api.tmdb.org
-3.161.193.11                files.tmdb.org
-3.160.150.33                themoviedb.org
-18.173.219.5                api.themoviedb.org
-3.160.150.33                www.themoviedb.org
-108.138.167.77              auth.themoviedb.org
-169.150.207.212             image.tmdb.org
-84.17.38.227                images.tmdb.org
-52.94.237.74                imdb.com
-18.64.175.204               www.imdb.com
-52.94.225.248               secure.imdb.com
-3.171.163.129               s.media-imdb.com
-52.94.237.74                us.dd.imdb.com
-18.154.216.94               www.imdb.to
-98.82.155.134               origin-www.imdb.com
-23.205.90.122               ia.media-imdb.com
-99.84.156.82                thetvdb.com
-18.165.107.112              api.thetvdb.com
-52.84.170.150               ia.media-imdb.com
+18.160.200.103              tmdb.org
+3.167.192.35                api.tmdb.org
+3.161.193.75                files.tmdb.org
+99.84.132.11                themoviedb.org
+3.170.103.59                api.themoviedb.org
+108.159.227.37              www.themoviedb.org
+18.165.116.78               auth.themoviedb.org
+13.33.4.41                  image.tmdb.org
+169.150.207.216             images.tmdb.org
+52.94.228.167               imdb.com
+3.171.163.129               www.imdb.com
+52.94.228.167               secure.imdb.com
+3.168.39.73                 s.media-imdb.com
+52.94.228.167               us.dd.imdb.com
+13.32.65.130                www.imdb.to
+44.215.137.99               origin-www.imdb.com
+151.101.89.16               ia.media-imdb.com
+18.154.130.110              thetvdb.com
+3.167.194.87                api.thetvdb.com
+13.32.151.148               ia.media-imdb.com
 151.101.89.16               f.media-amazon.com
-104.17.244.40               api.maptiler.com
-104.17.244.40               www.maptiler.com
-# Update time: 2025-09-12T06:23:13+08:00
+104.17.246.40               api.maptiler.com
+104.17.242.40               www.maptiler.com
+# Update time: 2025-09-12T18:27:04+08:00
 # IPv4 Update url: https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv4
 # IPv6 Update url: https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv6
 # Star me: https://github.com/lvemail/CheckTMDB
