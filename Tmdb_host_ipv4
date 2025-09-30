@@ -1,28 +1,28 @@
 # Tmdb Hosts Start
-99.84.215.11                tmdb.org
+13.225.158.76               tmdb.org
 13.32.205.37                api.tmdb.org
-13.33.67.126                files.tmdb.org
-52.222.205.11               themoviedb.org
-3.170.103.16                api.themoviedb.org
+3.167.163.38                files.tmdb.org
+108.159.227.27              themoviedb.org
+3.170.103.4                 api.themoviedb.org
 108.159.227.27              www.themoviedb.org
-108.138.167.77              auth.themoviedb.org
-84.17.38.232                image.tmdb.org
-169.150.207.212             images.tmdb.org
+3.169.5.105                 auth.themoviedb.org
+3.163.189.86                image.tmdb.org
+84.17.38.229                images.tmdb.org
 52.94.237.74                imdb.com
 3.168.39.73                 www.imdb.com
 44.215.137.99               secure.imdb.com
-13.35.99.7                  s.media-imdb.com
-98.82.158.179               us.dd.imdb.com
-13.35.99.7                  www.imdb.to
-44.215.137.99               origin-www.imdb.com
-151.101.89.16               ia.media-imdb.com
-52.84.53.80                 thetvdb.com
-18.164.130.112              api.thetvdb.com
-151.101.89.16               ia.media-imdb.com
+143.204.84.145              s.media-imdb.com
+44.215.137.99               us.dd.imdb.com
+3.168.39.73                 www.imdb.to
+98.82.158.179               origin-www.imdb.com
+13.32.203.153               ia.media-imdb.com
+3.162.172.98                thetvdb.com
+3.167.162.86                api.thetvdb.com
+23.205.90.147               ia.media-imdb.com
 151.101.89.16               f.media-amazon.com
-104.17.244.40               api.maptiler.com
-104.17.244.40               www.maptiler.com
-# Update time: 2025-09-30T06:23:11+08:00
+104.17.245.40               api.maptiler.com
+104.17.245.40               www.maptiler.com
+# Update time: 2025-09-30T18:28:44+08:00
 # IPv4 Update url: https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv4
 # IPv6 Update url: https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv6
 # Star me: https://github.com/lvemail/CheckTMDB
