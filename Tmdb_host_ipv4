@@ -1,28 +1,28 @@
 # Tmdb Hosts Start
-13.32.104.6                 tmdb.org
-13.33.109.111               api.tmdb.org
-13.33.67.126                files.tmdb.org
-3.168.73.40                 themoviedb.org
-3.170.103.4                 api.themoviedb.org
-143.204.130.47              www.themoviedb.org
+3.161.150.47                tmdb.org
+3.161.163.111               api.tmdb.org
+3.167.163.99                files.tmdb.org
+108.159.227.27              themoviedb.org
+3.170.103.59                api.themoviedb.org
+3.171.38.81                 www.themoviedb.org
 18.67.65.120                auth.themoviedb.org
-79.127.213.216              image.tmdb.org
+89.187.162.242              image.tmdb.org
 169.150.207.216             images.tmdb.org
-52.94.237.74                imdb.com
+52.94.228.167               imdb.com
 3.168.39.73                 www.imdb.com
 44.215.137.99               secure.imdb.com
 3.168.39.73                 s.media-imdb.com
-98.82.155.134               us.dd.imdb.com
+98.82.158.179               us.dd.imdb.com
 3.168.39.73                 www.imdb.to
-44.215.137.99               origin-www.imdb.com
-18.164.94.81                ia.media-imdb.com
-52.84.53.80                 thetvdb.com
-3.170.35.80                 api.thetvdb.com
-99.84.165.35                ia.media-imdb.com
+98.82.155.134               origin-www.imdb.com
+13.32.203.153               ia.media-imdb.com
+3.162.172.98                thetvdb.com
+3.167.162.86                api.thetvdb.com
+3.170.40.35                 ia.media-imdb.com
 151.101.89.16               f.media-amazon.com
 104.17.242.40               api.maptiler.com
-104.17.245.40               www.maptiler.com
-# Update time: 2025-10-16T06:23:13+08:00
+104.17.242.40               www.maptiler.com
+# Update time: 2025-10-16T18:29:37+08:00
 # IPv4 Update url: https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv4
 # IPv6 Update url: https://raw.githubusercontent.com/lvemail/CheckTMDB/refs/heads/main/Tmdb_host_ipv6
 # Star me: https://github.com/lvemail/CheckTMDB
